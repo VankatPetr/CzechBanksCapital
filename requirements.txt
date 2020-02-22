@@ -1,0 +1,6 @@
+jupyterlab
+pandas
+plotly
+voila
+sqlite3
+ipywidgets
