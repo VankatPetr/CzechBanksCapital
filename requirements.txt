@@ -2,5 +2,5 @@ jupyterlab
 pandas
 plotly
 voila
-sqlite3
+sqlite
 ipywidgets
